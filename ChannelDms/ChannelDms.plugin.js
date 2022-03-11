@@ -284,7 +284,7 @@ function buildPlugin([BasePlugin, PluginApi]) {
 				var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()((function(i) {
 					return i[1];
 				}));
-				___CSS_LOADER_EXPORT___.push([module.id, ".ChannelDms-channelmembers-wrap{background: var(--background-overlay);display:flex;flex-direction:column; width:230px}.ChannelDms-channelmembers-wrap .ChannelDms-channelmembers-header{text-transform:none;padding:10px 0;align-items:center;justify-content:center;font-family:var(--font-primary);border-bottom:thin solid var(--background-modifier-accent);--background-modifier-selected: var(--main-color);background:#00000099}.ChannelDms-channelmembers-wrap .container-2o3qEW{max-height:calc(100% - 45px)}", ""]);
+				___CSS_LOADER_EXPORT___.push([module.id, ".ChannelDms-channelmembers-wrap{background:#00000099;display:flex;flex-direction:column; width:230px}.ChannelDms-channelmembers-wrap .ChannelDms-channelmembers-header{text-transform:none;padding:10px 0;align-items:center;justify-content:center;font-family:var(--font-primary);border-bottom:thin solid var(--background-modifier-accent);--background-modifier-selected: var(--main-color);background:#00000099}.ChannelDms-channelmembers-wrap .container-2o3qEW{max-height:calc(100% - 45px)}", ""]);
 				___CSS_LOADER_EXPORT___.locals = {
 					wrap: "ChannelDms-channelmembers-wrap",
 					header: "ChannelDms-channelmembers-header"
