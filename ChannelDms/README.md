@@ -1,6 +1,7 @@
 # ChannelDms
 
 > Allows you to open popout chats of direct messages inside servers.
+> Edited version of Strencher plugin
 <hr/>
 
 
